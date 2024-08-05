@@ -1,11 +1,12 @@
-# [Clicker]() [![MIT license](https://img.shields.io/badge/license-MIT-007EC7.svg)](LICENSE)
+# Clicker [![MIT license](https://img.shields.io/badge/license-MIT-007EC7.svg)](LICENSE)
 
 ## Description
 It is an **_autoclicker_** created in Python.
 
-## [Requirements](requirements.txt)
+## Requirements
 - python 
-- PyAutoGUI
+- PyAutoGUI\
+Requirements are [here](requirements.txt).
 
 ## Installation
 Write this
