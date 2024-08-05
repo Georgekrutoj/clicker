@@ -6,7 +6,7 @@ It is an **_autoclicker_** created in Python.
 ## [Requirements](requirements.txt)
 - python 
 - PyAutoGUI
-- 
+
 ## Installation
 Write this
 ```shell
