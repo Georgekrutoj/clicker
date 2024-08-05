@@ -5,6 +5,7 @@ from time import sleep
 from configs import TIME_TO_START
 from configs import CLICKS
 from configs import DURATION
+from configs import MILLISECOND
 
 
 class Clicker:
@@ -48,9 +49,9 @@ class Clicker:
 
             while time_to_start > 0:
                 print(f"До старта кликера {time_to_start:.3f} секунд.\nУспейте разместить курсор!\n")
-                sleep(.001)
+                sleep(MILLISECOND)
 
-                time_to_start -= .001
+                time_to_start -= MILLISECOND
 
         print("Старт!")
 
